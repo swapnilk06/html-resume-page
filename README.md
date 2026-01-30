@@ -5,6 +5,10 @@ This project is a **single-page resume page built using only HTML**.
 No CSS or JavaScript has been used.  
 The main focus of this assignment is to understand **HTML structure, semantics, readability, and layout clarity**.
 
+--- 
+
+Project Livelink -> `http://swapnilkathale.in/`
+
 ---
 
 ### Project Objective
@@ -85,5 +89,6 @@ Add screenshots inside the `screenshots` folder.
 
 ---
 
-Project Livelink -> 
+Project Livelink -> `http://swapnilkathale.in/`
+
 
