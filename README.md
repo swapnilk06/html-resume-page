@@ -7,7 +7,7 @@ The main focus of this assignment is to understand **HTML structure, semantics, 
 
 --- 
 
-Project Livelink -> `http://swapnilkathale.in/`
+Project Livelink -> [Swapnil Kathale](http://swapnilkathale.in/ "Visit Swapnil Kathale's website")
 
 ---
 
@@ -89,6 +89,7 @@ Add screenshots inside the `screenshots` folder.
 
 ---
 
-Project Livelink -> `http://swapnilkathale.in/`
+Project Livelink -> [Swapnil Kathale](http://swapnilkathale.in/ "Visit Swapnil Kathale's website")
+
 
 
